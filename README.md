@@ -10,7 +10,7 @@ Interview challenge for React Native Application
 
 ## Problem
 
-**Required**: design and implement a small app that includes a class representing an *automatic* *bowling* *scorer* object. The automatic bowling scoring object will provide several methods:
+**Required**: Design and implement a small app that includes a class representing an *automatic* *bowling* *scorer* object. The automatic bowling scoring object will provide several methods:
 - a constructor
 - a frameNumber method that returns the number of the frame containing the ball about to be rolled
 - a scoreSoFar method that returns the score in the game so far
