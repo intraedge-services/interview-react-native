@@ -20,3 +20,9 @@ Interview challenge for React Native Application
 **Required**: Include with the app appropriate unit tests to exercise at a minimum the automatic bowling scorer and any other classes as you feel is necessary.
 
 **Recommended**: Prepare a state diagram that represents the states required in the automatic bowling scorer to accurately
+
+
+## Hints
+-	**Google/StackOverflow/Internet** is your best Friend! As long as you have understanding of solution and are able to demostrate,  it does not matter how you come up with the solution. You can take help from anyone.
+
+*All the best!*
